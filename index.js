@@ -16,7 +16,7 @@ var 123;
 //NO  podemos iniciar con espacios en blanco en el medio
 var nombrea apellido;
 //NO  podemos iniciar con guion medio
-var -LockManager;
+
 
 
 

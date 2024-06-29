@@ -24,4 +24,4 @@ resultado = numUno - numDos;
 
 console.log("El resultado de la resta es: " + resultado);// el signo mas concatena une aca no usma pues es numeros y letras
 
-alert("El resultado de la resta es: " + resultado);
+//alert("El resultado de la resta es: " + resultado);
